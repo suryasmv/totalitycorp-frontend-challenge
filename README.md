@@ -11,7 +11,7 @@ This project is a frontend implementation of an eCommerce website, created as a 
 - **Tailwind CSS**: For rapid and custom styling.
 - **Redux Toolkit**: To manage the cart state across the application.
 
-##Key Features
+## Key Features
 
 1. Browse Products
 Users can browse a collection of products. These products are fetched from an external API and displayed as product cards on the website.
